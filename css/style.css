@@ -51,9 +51,6 @@ main {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px;
-	position: relative;
-	padding-bottom: 58px;
-	min-height: 100vh;
 }
 
 section {
